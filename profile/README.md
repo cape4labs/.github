@@ -38,6 +38,3 @@ An easy-to-use tool for storing user data on-chain using Zama FHE. Securely stor
 A BTCFi mobile wallet providing user-friendly access to Bitcoin DeFi. Discover a wide range of protocols with intuitive analytics tools. Built on the Stacks blockchain.
 
 - [mobile app](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
-
-
----
