@@ -1,10 +1,11 @@
-<div align="center">
+<img width="1280" height="280" alt="image" src="https://github.com/user-attachments/assets/77333a13-7942-4f0d-8815-fde1837543de" />
 
-## We are the team of 4 escapers 
 
-# cape 4 labs 
+## We are the team of 4 escapers building Web3 infra with privacy-first decisions.
 
-## 🕸 Web3 infra with privacy-first decisions
+**Our primary expertise lies in JavaScript technologies.** Recently, we’ve built solutions in areas such as blockchain privacy (Zauth), on-chain data crowd-sourcing (AudataDAO), and decentralized finance (Sunflower). Beyond web3, we also worked with high-quality traditional web applications. personal websites, marketplaces, analytics dashboards, and chatbot solutions.
+
+## Contact Us to build your dream project - **cape4labs@proton.me**
 
   
 ---
@@ -12,30 +13,20 @@
 
 ## 🟪 AudataDAO
 
-AudataDAO is decentralized infrastructure for collecting telegram audio messages into a solid, user-owned dataset of multilingual live speech. It is built and deployed on Vana Mainnet. 
-
-__Current status:__ 23/10/2025 - Season 0 is live - [audata.space](https://audata.space)
+DApp for creating and governing user-owned speech datasets, providing the AI industry with real, ethically sourced audio data. Built on Vana, an EVM-based data crowdsourcing blockchain.
   
-### 💾 AudataDAO repositories:
-- [Proof of contribution](https://github.com/cape4labs/audatadao_proof_of_contribution) - a script used for evaluating value of user submitted data.
-- [Data refiner](https://github.com/cape4labs/audatadao_data_refiner) - another script that is run against data considered valuable transforming it into sql queryable format. 
-- [Web UI](https://github.com/cape4labs/audatadao_dlp_ui) - code of the web Dapp where users submit their audio data.
-- [Backend](https://github.com/cape4labs/audatadao_user_db_backend) - our backend service we use to maintain the users DB, the leaderboard, etc.
-
-__Smart Contracts deployed:__
-
-Also you can check the project docs on Gitbook: [AudataDAO docs](https://audata.gitbook.io/audata-docs)
+- [proof of contribution](https://github.com/cape4labs/audatadao_proof_of_contribution) - a script used for evaluating value of user submitted data.
+- [data refiner](https://github.com/cape4labs/audatadao_data_refiner) - another script that is run against data considered valuable transforming it into sql queryable format. 
+- [web ui](https://github.com/cape4labs/audatadao_dlp_ui) - code of the web Dapp where users submit their audio data.
+- [backend](https://github.com/cape4labs/audatadao_user_db_backend) - our backend service we use to maintain the users DB, the leaderboard, etc.
 
 ---
 <div align="left">
 
 ## 🟨 Zauth
 
-__The problem:__ Where is your data really stored when you connect your X, Discord or Github to any SocialFi / InfoFi platform? 
-
-__Our solution:__ Store this data on-chain and encrypted, using Zama fhe. We built widget to make this idea come true.
+An easy-to-use tool for storing user data on-chain using Zama FHE. Securely stores X, Discord, and GitHub connections for SocialFi platforms. EVM-compatible.
   
-### 💾 Zauth repositories:
 - [fhe smart contract](https://github.com/cape4labs/zauth_smart_contract_fhe) - on-chain data inscription built with zama fhe. 
 - [frontend widget](https://github.com/cape4labs/zauth_frontend) - the web widget that let use connect wallet, social medias account and then wrrite this connection on-chain.
 
@@ -44,15 +35,9 @@ __Our solution:__ Store this data on-chain and encrypted, using Zama fhe. We bui
 
 ## 🟧 Sunflower Wallet
 
-__Stacks wallet built for BTCFi.__
+A BTCFi mobile wallet providing user-friendly access to Bitcoin DeFi. Discover a wide range of protocols with intuitive analytics tools. Built on the Stacks blockchain.
 
-[read more here](https://medium.com/@no__hive/defi-lacks-fine-mobile-ui-ux-whoever-changes-it-wins-71274f07ceac) 
+- [mobile app](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
 
-[check demo here](medium.com/@no__hive/sunflower-wallet-demo-d22dec9283a0])
-  
-### 💾 Sunflower Wallet repositories:
-
-- [main repo](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
-- [_coming soon_] - the backend for smart AI yield analytics.
 
 ---
