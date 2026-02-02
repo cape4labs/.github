@@ -1,9 +1,10 @@
-<img width="1280" height="280" alt="image" src="https://github.com/user-attachments/assets/77333a13-7942-4f0d-8815-fde1837543de" />
+## Welcome to Cape4labs development studio.
 
+[website]
 
-## We are the team of 4 escapers building Web3 infra with privacy-first decisions.
+We are the team of 4 escapers building Web3 infra with privacy-first decisions. **Our primary expertise lies in JavaScript technologies.** 
 
-**Our primary expertise lies in JavaScript technologies.** Recently, we’ve built solutions in areas such as blockchain privacy (Zauth), on-chain data crowd-sourcing (AudataDAO), and decentralized finance (Sunflower). Beyond web3, we also worked with high-quality traditional web applications. personal websites, marketplaces, analytics dashboards, and chatbot solutions.
+Recently, we’ve built solutions in areas such as blockchain privacy (Zauth), on-chain data crowd-sourcing (AudataDAO), and decentralized finance (Sunflower). Beyond web3, we also worked with high-quality traditional web applications. personal websites, marketplaces, analytics dashboards, and chatbot solutions.
 
 ## Contact Us to build your dream project - **cape4labs@proton.me**
 
@@ -38,3 +39,4 @@ An easy-to-use tool for storing user data on-chain using Zama FHE. Securely stor
 A BTCFi mobile wallet providing user-friendly access to Bitcoin DeFi. Discover a wide range of protocols with intuitive analytics tools. Built on the Stacks blockchain.
 
 - [mobile app](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
+
