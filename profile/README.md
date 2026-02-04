@@ -4,7 +4,9 @@
 
 <div align="left">
 
-We specialize in JavaScript and modern full-stack development, building crypto products alongside high-quality traditional web applications such as marketplaces, analytics dashboards, and chatbot solutions. Contact Us to build your dream project - **cape4labs@proton.me**.
+We specialize in JavaScript and modern full-stack development, building crypto products alongside high-quality traditional web applications such as marketplaces, analytics dashboards, and chatbot solutions. 
+
+**Contact us to build your next dream project - cape4labs@proton.me**.
 
 ---
 
