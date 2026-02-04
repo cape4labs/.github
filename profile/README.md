@@ -1,19 +1,18 @@
-## Welcome to Cape4labs development studio.
-
-### We specialize in JavaScript and modern full-stack development, building crypto and Web3 products alongside high-quality traditional web applications such as marketplaces, analytics dashboards, and chatbot solutions.
-
-### Contact Us to build your dream project - **cape4labs@proton.me**
-
 ---
 
-<div align="center">
+### Welcome to Cape4labs development studio!
 
-## Our recent projects
-
----
 <div align="left">
 
-## 🟪 AudataDAO
+We specialize in JavaScript and modern full-stack development, building crypto products alongside high-quality traditional web applications such as marketplaces, analytics dashboards, and chatbot solutions. Contact Us to build your dream project - **cape4labs@proton.me**.
+
+---
+
+### Check our latest projects: 
+
+<div align="left">
+
+### 🟪 AudataDAO
 
 DApp for creating and governing user-owned speech datasets, providing the AI industry with real, ethically sourced audio data. Built on Vana, an EVM-based data crowdsourcing blockchain.
 
@@ -26,7 +25,7 @@ DApp for creating and governing user-owned speech datasets, providing the AI ind
 ---
 <div align="left">
 
-## 🟨 Zauth
+### 🟨 Zauth
 
 An easy-to-use tool for storing user data on-chain using Zama FHE. Securely stores X, Discord, and GitHub connections for SocialFi platforms. EVM-compatible.
   
@@ -36,7 +35,7 @@ An easy-to-use tool for storing user data on-chain using Zama FHE. Securely stor
 ---
 <div align="left">
 
-## 🟧 Sunflower Wallet
+### 🟧 Sunflower Wallet
 
 A BTCFi mobile wallet providing user-friendly access to Bitcoin DeFi. Discover a wide range of protocols with intuitive analytics tools. Built on the Stacks blockchain.
 
