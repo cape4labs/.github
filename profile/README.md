@@ -1,7 +1,5 @@
 ## Welcome to Cape4labs development studio.
 
-[website]
-
 We are the team of 4 escapers building Web3 infra with privacy-first decisions. **Our primary expertise lies in JavaScript technologies.** 
 
 Recently, we’ve built solutions in areas such as blockchain privacy (Zauth), on-chain data crowd-sourcing (AudataDAO), and decentralized finance (Sunflower). Beyond web3, we also worked with high-quality traditional web applications. personal websites, marketplaces, analytics dashboards, and chatbot solutions.
