@@ -1,12 +1,15 @@
 ## Welcome to Cape4labs development studio.
 
-We are the team of 4 escapers building Web3 infra with privacy-first decisions. **Our primary expertise lies in JavaScript technologies.** 
+### We specialize in JavaScript and modern full-stack development, building crypto and Web3 products alongside high-quality traditional web applications such as marketplaces, analytics dashboards, and chatbot solutions.
 
-Recently, we’ve built solutions in areas such as blockchain privacy (Zauth), on-chain data crowd-sourcing (AudataDAO), and decentralized finance (Sunflower). Beyond web3, we also worked with high-quality traditional web applications. personal websites, marketplaces, analytics dashboards, and chatbot solutions.
+### Contact Us to build your dream project - **cape4labs@proton.me**
 
-## Contact Us to build your dream project - **cape4labs@proton.me**
+---
 
-  
+<div align="center">
+
+## Our recent projects
+
 ---
 <div align="left">
 
