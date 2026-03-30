@@ -8,9 +8,30 @@ We specialize in JavaScript and modern full-stack development, building crypto p
 
 **Contact us to build your next dream project - cape4labs@proton.me**.
 
+### Check our latest projects: 
+
 ---
 
-### Check our latest projects: 
+<div align="left">
+
+### 🟧 Sunflower Wallet
+
+A BTCFi mobile wallet providing user-friendly access to Bitcoin DeFi. Discover a wide range of protocols with intuitive analytics tools. Built on the Stacks blockchain.
+
+- [mobile app](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
+- [user docs](https://cape4labs.gitbook.io/sunflower-wallet) - GitBook with all the information users need to get on board the wallet.
+
+---
+
+<div align="left">
+
+### 🟦 Capebridge
+
+Gateway to swap Base USDC tokens for Stacks USDCX tokens (and vice versa). Built as a decentralized bridge service controlled by a federation of nodes.
+
+- [dApp repo](https://github.com/QwaQ-dev/capebridge) - smart contracts, backend, frontend & explanation how it all works.
+
+---
 
 <div align="left">
 
@@ -35,12 +56,3 @@ An easy-to-use tool for storing user data on-chain using Zama FHE. Securely stor
 - [frontend widget](https://github.com/cape4labs/zauth_frontend) - the web widget that let use connect wallet, social medias account and then wrrite this connection on-chain.
 
 ---
-<div align="left">
-
-### 🟧 Sunflower Wallet
-
-A BTCFi mobile wallet providing user-friendly access to Bitcoin DeFi. Discover a wide range of protocols with intuitive analytics tools. Built on the Stacks blockchain.
-
-- [mobile app](https://github.com/cape4labs/sunflower_wallet_app) - the mobile hot wallet app.
-- [user docs](https://cape4labs.gitbook.io/sunflower-wallet) - GitBook with all the information users need to get on board the wallet.
-
